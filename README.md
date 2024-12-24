@@ -1,5 +1,11 @@
 # LiteLoaderQQNT-GPT-Reply
 
+我修改了[这里]([https://github.com/LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/fwz233-RE/LiteLoaderQQNT-GPT-MessageReply/blob/main/src/renderer.js)),你需要填写你的密钥和做一些操作实现ai回复消息
+
+以下是原项目的介绍
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 简体中文 | [English](./README.en.md)
 
 [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) 插件，直接在 QQNT 使用 ChatGPT 回复消息
