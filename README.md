@@ -1,9 +1,12 @@
 # LiteLoaderQQNT-GPT-Reply
 
+需要安装QQ的这个插件[插件](https://github.com/LiteLoaderQQNT)
+
+
 我修改了[这里](https://github.com/fwz233-RE/LiteLoaderQQNT-GPT-MessageReply/blob/main/src/renderer.js),你需要填写你的密钥和做一些操作实现ai回复消息
 
 
-需要LiteLoaderQQNT-Euphony这个项目实现,[这里](https://github.com/xtaw/LiteLoaderQQNT-Euphony)把它下载解压然后改名放在根目录即可
+需要LiteLoaderQQNT-Euphony这个项目实现功能,[项目](https://github.com/xtaw/LiteLoaderQQNT-Euphony)把它下载解压然后改名放在根目录即可
 
 
 以下是原项目的介绍
