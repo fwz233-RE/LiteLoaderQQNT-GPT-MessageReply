@@ -8,6 +8,11 @@
 
 需要LiteLoaderQQNT-Euphony这个项目实现功能,[项目](https://github.com/xtaw/LiteLoaderQQNT-Euphony)把它下载解压然后改名放在根目录即可
 
+![image](https://github.com/user-attachments/assets/290444b8-d176-4a7a-a381-57bf0ee51a9c)
+
+![image](https://github.com/user-attachments/assets/77dce0a6-98dc-4479-be3f-8748174cd144)
+
+![image](https://github.com/user-attachments/assets/923171c5-45e3-41f8-b573-92985f934b17)
 
 以下是原项目的介绍
 
