@@ -6,7 +6,7 @@
 我修改了[这里](https://github.com/fwz233-RE/LiteLoaderQQNT-GPT-MessageReply/blob/main/src/renderer.js),你需要填写你的密钥和做一些操作实现ai回复消息
 
 
-需要LiteLoaderQQNT-Euphony这个项目实现功能,[项目](https://github.com/xtaw/LiteLoaderQQNT-Euphony)把它下载解压然后改名放在根目录即可
+需要LiteLoaderQQNT-Euphony这个项目实现功能,[项目](https://github.com/xtaw/LiteLoaderQQNT-Euphony)把它下载解压然后改名放在插件目录即可
 
 ![image](https://github.com/user-attachments/assets/290444b8-d176-4a7a-a381-57bf0ee51a9c)
 
